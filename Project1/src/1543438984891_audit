@@ -1,0 +1,32 @@
+Type of voting is IRV.
+Number of candidates is 4.
+Number of ballots/votes is 7.
+Rosen (D)
+ Kleinberg (R)
+ Chou (I)
+ Royce (L)
+Vote added to candidate Rosen (D) who now has 1 votes.
+Vote added to candidate  Chou (I) who now has 1 votes.
+Vote added to candidate  Royce (L) who now has 1 votes.
+Vote added to candidate  Royce (L) who now has 2 votes.
+Vote added to candidate  Royce (L) who now has 3 votes.
+Vote added to candidate  Chou (I) who now has 2 votes.
+Vote added to candidate  Kleinberg (R) who now has 1 votes.
+Rosen (D) is eliminated! They only had 1 first place votes!
+Vote added to candidate  Kleinberg (R) who now has 1 votes.
+Vote added to candidate  Chou (I) who now has 1 votes.
+Vote added to candidate  Royce (L) who now has 1 votes.
+Vote added to candidate  Royce (L) who now has 2 votes.
+Vote added to candidate  Royce (L) who now has 3 votes.
+Vote added to candidate  Chou (I) who now has 2 votes.
+Vote added to candidate  Kleinberg (R) who now has 2 votes.
+ Kleinberg (R) is eliminated! They only had 2 first place votes!
+Vote added to candidate  Chou (I) who now has 1 votes.
+Vote added to candidate  Chou (I) who now has 2 votes.
+Vote added to candidate  Royce (L) who now has 1 votes.
+Vote added to candidate  Royce (L) who now has 2 votes.
+Vote added to candidate  Royce (L) who now has 3 votes.
+Vote added to candidate  Chou (I) who now has 3 votes.
+Vote added to candidate  Royce (L) who now has 4 votes.
+ Chou (I) wins! They had 3 total votes!
+
